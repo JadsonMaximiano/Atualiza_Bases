@@ -3,18 +3,22 @@ import os
 import shutil
 import time
 from datetime import datetime
+from urllib.parse import urlsplit, urlunsplit
 
 import pandas as pd
 import schedule
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
+from selenium.common.exceptions import WebDriverException
 from webdriver_manager.chrome import ChromeDriverManager
 import mysql.connector
 
 from Atualiza import atualiza_bases, consulta
 
 arquivo = r'Log\log.txt'
+URL_GEOPLUS = "https://acesso.geoplusbrasil.com:8181/gpprcvr_servlet/index.zul"
+ENDERECO_CONTINGENCIA = "localhost:8080"
 
 try:
     shutil.rmtree(rf'C:\Users\{os.getlogin()}\.wdm')
@@ -31,6 +35,30 @@ def hora():
     return f"{data[8:10]}/{data[5:7]}/{data[0:4]} {hora}:{minuto}:{segundo}"
 
 
+def gerar_url_contingencia(url):
+    """Mantém o caminho da URL original e direciona a requisição ao servidor local."""
+    url_separada = urlsplit(url)
+    return urlunsplit(("http", ENDERECO_CONTINGENCIA, url_separada.path,
+                       url_separada.query, url_separada.fragment))
+
+
+def acessar_geoplus(driver, url=URL_GEOPLUS):
+    """Acessa o servidor principal e usa o servidor local somente se ele falhar."""
+    url_contingencia = gerar_url_contingencia(url)
+
+    try:
+        driver.get(url)
+        if str(driver.current_url).startswith("chrome-error://"):
+            raise WebDriverException("O servidor principal retornou uma página de erro")
+        return url
+    except WebDriverException as erro_principal:
+        print(f"Falha ao acessar {url}: {erro_principal}. Tentando {url_contingencia}.")
+        driver.get(url_contingencia)
+        if str(driver.current_url).startswith("chrome-error://"):
+            raise WebDriverException("O servidor de contingência retornou uma página de erro")
+        return url_contingencia
+
+
 def job():
     global gpp
     try:
@@ -39,13 +67,11 @@ def job():
             files.write('Iniciando analise')
         inicio = time.time()
         
-        url = "https://acesso.geoplusbrasil.com:8181/gpprcvr_servlet/index.zul"
-
         options = webdriver.ChromeOptions()
         options.add_argument("--headless")
         driver = webdriver.Chrome(service=Service(executable_path=ChromeDriverManager().install()), options=options)
         driver.set_window_size(1000, 10000)
-        driver.get(url)
+        acessar_geoplus(driver)
         time.sleep(2)
         driver.execute_script("document.body.style.zoom='5%';")
         element = driver.find_elements(By.XPATH, '//tr[@class="main z-treerow"]')
@@ -144,5 +170,3 @@ while True:
     schedule.run_pending()
     schedule.every(120).seconds.do(job)
     cont = 2
-
-
