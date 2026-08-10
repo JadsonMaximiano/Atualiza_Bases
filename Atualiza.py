@@ -10,7 +10,8 @@ def conectar():
             host='atteras.mysql.dbaas.com.br',
             user='atteras',
             password='GeoGuanda202!',
-            database='atteras'
+            database='atteras',
+            use_pure=True
         )
     except Error as erro:
         print(f'Erro de conexão: {erro}')
