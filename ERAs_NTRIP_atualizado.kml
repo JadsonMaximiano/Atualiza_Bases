@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="644">
+        <Folder id="645">
+            <Style id="661">
+                <IconStyle id="662">
+                    <colorMode>normal</colorMode>
+                    <scale>3</scale>
+                    <heading>0</heading>
+                    <Icon id="663">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="647">
+                <IconStyle id="648">
+                    <color>ff008000</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.5</scale>
+                    <heading>0</heading>
+                    <Icon id="649">
+                        <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="650">
+                    <colorMode>normal</colorMode>
+                    <scale>0.5</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="666">
+                <IconStyle id="667">
+                    <colorMode>normal</colorMode>
+                    <scale>3</scale>
+                    <heading>0</heading>
+                    <Icon id="668">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="671">
+                <IconStyle id="672">
+                    <colorMode>normal</colorMode>
+                    <scale>3</scale>
+                    <heading>0</heading>
+                    <Icon id="673">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="676">
+                <IconStyle id="677">
+                    <colorMode>normal</colorMode>
+                    <scale>3</scale>
+                    <heading>0</heading>
+                    <Icon id="678">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="681">
+                <IconStyle id="682">
+                    <colorMode>normal</colorMode>
+                    <scale>3</scale>
+                    <heading>0</heading>
+                    <Icon id="683">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="686">
+                <IconStyle id="687">
+                    <colorMode>normal</colorMode>
+                    <scale>3</scale>
+                    <heading>0</heading>
+                    <Icon id="688">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="691">
+                <IconStyle id="692">
+                    <colorMode>normal</colorMode>
+                    <scale>3</scale>
+                    <heading>0</heading>
+                    <Icon id="693">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="696">
+                <IconStyle id="697">
+                    <colorMode>normal</colorMode>
+                    <scale>3</scale>
+                    <heading>0</heading>
+                    <Icon id="698">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="655">
+                <IconStyle id="656">
+                    <color>ff0000ff</color>
+                    <colorMode>normal</colorMode>
+                    <scale>0.5</scale>
+                    <heading>0</heading>
+                    <Icon id="657">
+                        <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+                    </Icon>
+                </IconStyle>
+                <LabelStyle id="658">
+                    <colorMode>normal</colorMode>
+                    <scale>0.5</scale>
+                </LabelStyle>
+            </Style>
+            <Style id="701">
+                <IconStyle id="702">
+                    <colorMode>normal</colorMode>
+                    <scale>3</scale>
+                    <heading>0</heading>
+                    <Icon id="703">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="706">
+                <IconStyle id="707">
+                    <colorMode>normal</colorMode>
+                    <scale>3</scale>
+                    <heading>0</heading>
+                    <Icon id="708">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="711">
+                <IconStyle id="712">
+                    <colorMode>normal</colorMode>
+                    <scale>3</scale>
+                    <heading>0</heading>
+                    <Icon id="713">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="716">
+                <IconStyle id="717">
+                    <colorMode>normal</colorMode>
+                    <scale>3</scale>
+                    <heading>0</heading>
+                    <Icon id="718">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="721">
+                <IconStyle id="722">
+                    <colorMode>normal</colorMode>
+                    <scale>3</scale>
+                    <heading>0</heading>
+                    <Icon id="723">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="726">
+                <IconStyle id="727">
+                    <colorMode>normal</colorMode>
+                    <scale>3</scale>
+                    <heading>0</heading>
+                    <Icon id="728">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="731">
+                <IconStyle id="732">
+                    <colorMode>normal</colorMode>
+                    <scale>3</scale>
+                    <heading>0</heading>
+                    <Icon id="733">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="736">
+                <IconStyle id="737">
+                    <colorMode>normal</colorMode>
+                    <scale>3</scale>
+                    <heading>0</heading>
+                    <Icon id="738">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="741">
+                <IconStyle id="742">
+                    <colorMode>normal</colorMode>
+                    <scale>3</scale>
+                    <heading>0</heading>
+                    <Icon id="743">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="746">
+                <IconStyle id="747">
+                    <colorMode>normal</colorMode>
+                    <scale>3</scale>
+                    <heading>0</heading>
+                    <Icon id="748">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="751">
+                <IconStyle id="752">
+                    <colorMode>normal</colorMode>
+                    <scale>3</scale>
+                    <heading>0</heading>
+                    <Icon id="753">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="756">
+                <IconStyle id="757">
+                    <colorMode>normal</colorMode>
+                    <scale>3</scale>
+                    <heading>0</heading>
+                    <Icon id="758">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="761">
+                <IconStyle id="762">
+                    <colorMode>normal</colorMode>
+                    <scale>3</scale>
+                    <heading>0</heading>
+                    <Icon id="763">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="766">
+                <IconStyle id="767">
+                    <colorMode>normal</colorMode>
+                    <scale>3</scale>
+                    <heading>0</heading>
+                    <Icon id="768">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="771">
+                <IconStyle id="772">
+                    <colorMode>normal</colorMode>
+                    <scale>3</scale>
+                    <heading>0</heading>
+                    <Icon id="773">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="776">
+                <IconStyle id="777">
+                    <colorMode>normal</colorMode>
+                    <scale>3</scale>
+                    <heading>0</heading>
+                    <Icon id="778">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="781">
+                <IconStyle id="782">
+                    <colorMode>normal</colorMode>
+                    <scale>3</scale>
+                    <heading>0</heading>
+                    <Icon id="783">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="786">
+                <IconStyle id="787">
+                    <colorMode>normal</colorMode>
+                    <scale>3</scale>
+                    <heading>0</heading>
+                    <Icon id="788">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="791">
+                <IconStyle id="792">
+                    <colorMode>normal</colorMode>
+                    <scale>3</scale>
+                    <heading>0</heading>
+                    <Icon id="793">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="796">
+                <IconStyle id="797">
+                    <colorMode>normal</colorMode>
+                    <scale>3</scale>
+                    <heading>0</heading>
+                    <Icon id="798">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="801">
+                <IconStyle id="802">
+                    <colorMode>normal</colorMode>
+                    <scale>3</scale>
+                    <heading>0</heading>
+                    <Icon id="803">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="806">
+                <IconStyle id="807">
+                    <colorMode>normal</colorMode>
+                    <scale>3</scale>
+                    <heading>0</heading>
+                    <Icon id="808">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="811">
+                <IconStyle id="812">
+                    <colorMode>normal</colorMode>
+                    <scale>3</scale>
+                    <heading>0</heading>
+                    <Icon id="813">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="816">
+                <IconStyle id="817">
+                    <colorMode>normal</colorMode>
+                    <scale>3</scale>
+                    <heading>0</heading>
+                    <Icon id="818">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="821">
+                <IconStyle id="822">
+                    <colorMode>normal</colorMode>
+                    <scale>3</scale>
+                    <heading>0</heading>
+                    <Icon id="823">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="826">
+                <IconStyle id="827">
+                    <colorMode>normal</colorMode>
+                    <scale>3</scale>
+                    <heading>0</heading>
+                    <Icon id="828">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="831">
+                <IconStyle id="832">
+                    <colorMode>normal</colorMode>
+                    <scale>3</scale>
+                    <heading>0</heading>
+                    <Icon id="833">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="836">
+                <IconStyle id="837">
+                    <colorMode>normal</colorMode>
+                    <scale>3</scale>
+                    <heading>0</heading>
+                    <Icon id="838">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <Style id="841">
+                <IconStyle id="842">
+                    <colorMode>normal</colorMode>
+                    <scale>3</scale>
+                    <heading>0</heading>
+                    <Icon id="843">
+                        <href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+                    </Icon>
+                </IconStyle>
+            </Style>
+            <LookAt>
+                <longitude>-46.664066</longitude>
+                <latitude>-22.469418</latitude>
+                <heading>0</heading>
+                <tilt>0</tilt>
+                <range>1097494</range>
+                <gx:altitudeMode>relativeToSeaFloor </gx:altitudeMode>
+            </LookAt>
+            <Placemark id="660">
+                <name>ALMA</name>
+                <description>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/ALMA_MONOGRAFIA.PDF</description>
+                <styleUrl>#647</styleUrl>
+                <Point id="659">
+                    <coordinates>-35.777101,-9.554711,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="665">
+                <name>BASV</name>
+                <description>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/BASV_MONOGRAFIA.PDF</description>
+                <styleUrl>#647</styleUrl>
+                <Point id="664">
+                    <coordinates>-38.432254,-12.939247,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="670">
+                <name>BRDF</name>
+                <description>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/BRDF_MONOGRAFIA.PDF</description>
+                <styleUrl>#647</styleUrl>
+                <Point id="669">
+                    <coordinates>-47.877869,-15.947475,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="675">
+                <name>ESVT</name>
+                <description>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/ESVT_MONOGRAFIA.PDF</description>
+                <styleUrl>#647</styleUrl>
+                <Point id="674">
+                    <coordinates>-40.319455,-20.310794,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="680">
+                <name>GOGN</name>
+                <description>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/GOGN_MONOGRAFIA.PDF</description>
+                <styleUrl>#647</styleUrl>
+                <Point id="679">
+                    <coordinates>-49.254673,-16.664728,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="685">
+                <name>MGBH</name>
+                <description>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/MGBH_MONOGRAFIA.PDF</description>
+                <styleUrl>#647</styleUrl>
+                <Point id="684">
+                    <coordinates>-43.924897,-19.941901,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="690">
+                <name>MGG4</name>
+                <description>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/MGG4_MONOGRAFIA.PDF</description>
+                <styleUrl>#647</styleUrl>
+                <Point id="689">
+                    <coordinates>-46.722768,-21.309646,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="695">
+                <name>MGIT</name>
+                <description>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/MGIT_MONOGRAFIA.PDF</description>
+                <styleUrl>#655</styleUrl>
+                <Point id="694">
+                    <coordinates>-45.452574,-22.412517,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="700">
+                <name>MGPA</name>
+                <description>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/MGPA_MONOGRAFIA.PDF</description>
+                <styleUrl>#647</styleUrl>
+                <Point id="699">
+                    <coordinates>-45.929334,-22.254498,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="705">
+                <name>MGUB</name>
+                <description>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/MGUB_MONOGRAFIA.PDF</description>
+                <styleUrl>#647</styleUrl>
+                <Point id="704">
+                    <coordinates>-48.256049,-18.919163,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="710">
+                <name>MGVI</name>
+                <description>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/MGVI_MONOGRAFIA.PDF</description>
+                <styleUrl>#647</styleUrl>
+                <Point id="709">
+                    <coordinates>-42.869989,-20.761501,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="715">
+                <name>MTCU</name>
+                <description>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/MTCU_MONOGRAFIA.PDF</description>
+                <styleUrl>#647</styleUrl>
+                <Point id="714">
+                    <coordinates>-56.069867,-15.555263,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="720">
+                <name>PERE</name>
+                <description>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/PERE_MONOGRAFIA.PDF</description>
+                <styleUrl>#647</styleUrl>
+                <Point id="719">
+                    <coordinates>-34.912573,-8.007272,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="725">
+                <name>PRCR</name>
+                <description>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/PRCR_MONOGRAFIA.PDF</description>
+                <styleUrl>#647</styleUrl>
+                <Point id="724">
+                    <coordinates>-49.230955,-25.448369,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="730">
+                <name>PRMA</name>
+                <description>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/PRMA_MONOGRAFIA.PDF</description>
+                <styleUrl>#647</styleUrl>
+                <Point id="729">
+                    <coordinates>-51.938424,-23.409688,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="735">
+                <name>RJAR</name>
+                <description>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/RJAR_MONOGRAFIA.PDF</description>
+                <styleUrl>#647</styleUrl>
+                <Point id="734">
+                    <coordinates>-44.302202,-22.999191,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="740">
+                <name>RJBM</name>
+                <description>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/RJBM_MONOGRAFIA.PDF</description>
+                <styleUrl>#647</styleUrl>
+                <Point id="739">
+                    <coordinates>-44.172084,-22.541923,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="745">
+                <name>RJBZ</name>
+                <description>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/RJBZ_MONOGRAFIA.PDF</description>
+                <styleUrl>#647</styleUrl>
+                <Point id="744">
+                    <coordinates>-41.946242,-22.781567,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="750">
+                <name>RJCG</name>
+                <description>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/RJCG_MONOGRAFIA.PDF</description>
+                <styleUrl>#647</styleUrl>
+                <Point id="749">
+                    <coordinates>-41.326156,-21.764866,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="755">
+                <name>RJIT</name>
+                <description>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/RJIT_MONOGRAFIA.PDF</description>
+                <styleUrl>#647</styleUrl>
+                <Point id="754">
+                    <coordinates>-43.673497,-22.871904,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="760">
+                <name>RJNT</name>
+                <description>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/RJNT_MONOGRAFIA.PDF</description>
+                <styleUrl>#647</styleUrl>
+                <Point id="759">
+                    <coordinates>-43.133804,-22.905936,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="765">
+                <name>RJVA</name>
+                <description>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/RJVA_MONOGRAFIA.PDF</description>
+                <styleUrl>#647</styleUrl>
+                <Point id="764">
+                    <coordinates>-43.651863,-22.402211,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="770">
+                <name>RSC1</name>
+                <description>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/RSC1_MONOGRAFIA.PDF</description>
+                <styleUrl>#647</styleUrl>
+                <Point id="769">
+                    <coordinates>-51.161596,-29.167325,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="775">
+                <name>RSLP</name>
+                <description>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/RSLP_MONOGRAFIA.PDF</description>
+                <styleUrl>#647</styleUrl>
+                <Point id="774">
+                    <coordinates>-51.152422,-29.792995,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="780">
+                <name>RSPA</name>
+                <description>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/RSPA_MONOGRAFIA.PDF</description>
+                <styleUrl>#647</styleUrl>
+                <Point id="779">
+                    <coordinates>-51.119765,-30.074042,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="785">
+                <name>RSSM</name>
+                <description>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/RSSM_MONOGRAFIA.PDF</description>
+                <styleUrl>#647</styleUrl>
+                <Point id="784">
+                    <coordinates>-53.716593,-29.718924,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="790">
+                <name>SCAQ</name>
+                <description>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SCAQ_MONOGRAFIA.PDF</description>
+                <styleUrl>#647</styleUrl>
+                <Point id="789">
+                    <coordinates>-48.737441,-26.393757,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="795">
+                <name>SCFL</name>
+                <description>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SCFL_MONOGRAFIA.PDF</description>
+                <styleUrl>#647</styleUrl>
+                <Point id="794">
+                    <coordinates>-48.542083,-27.594433,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="800">
+                <name>SPCN</name>
+                <description>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPCN_MONOGRAFIA.PDF</description>
+                <styleUrl>#647</styleUrl>
+                <Point id="799">
+                    <coordinates>-47.924969,-25.020239,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="805">
+                <name>SPFE</name>
+                <description>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPFE_MONOGRAFIA.PDF</description>
+                <styleUrl>#647</styleUrl>
+                <Point id="804">
+                    <coordinates>-50.228695,-20.262875,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="810">
+                <name>SPIV</name>
+                <description>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPIV_MONOGRAFIA.PDF</description>
+                <styleUrl>#647</styleUrl>
+                <Point id="809">
+                    <coordinates>-48.888483,-23.999456,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="815">
+                <name>SPL2</name>
+                <description>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPL2_MONOGRAFIA.PDF</description>
+                <styleUrl>#647</styleUrl>
+                <Point id="814">
+                    <coordinates>-45.121889,-22.752509,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="820">
+                <name>SPMO</name>
+                <description>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPMO_MONOGRAFIA.PDF</description>
+                <styleUrl>#655</styleUrl>
+                <Point id="819">
+                    <coordinates>-46.702626,-24.112526,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="825">
+                <name>SPPC</name>
+                <description>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPPC_MONOGRAFIA.PDF</description>
+                <styleUrl>#647</styleUrl>
+                <Point id="824">
+                    <coordinates>-51.778242,-21.278962,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="830">
+                <name>SPRG</name>
+                <description>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPRG_MONOGRAFIA.PDF</description>
+                <styleUrl>#647</styleUrl>
+                <Point id="829">
+                    <coordinates>-47.861346,-24.534117,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="835">
+                <name>SPTB</name>
+                <description>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPTB_MONOGRAFIA.PDF</description>
+                <styleUrl>#647</styleUrl>
+                <Point id="834">
+                    <coordinates>-45.572928,-22.996675,0.0</coordinates>
+                </Point>
+            </Placemark>
+            <Placemark id="840">
+                <name>SPTU</name>
+                <description>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPTU_MONOGRAFIA.PDF</description>
+                <styleUrl>#655</styleUrl>
+                <Point id="839">
+                    <coordinates>-50.49237,-21.929118,0.0</coordinates>
+                </Point>
+            </Placemark>
+        </Folder>
+    </Document>
+</kml>

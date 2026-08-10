@@ -1,0 +1,877 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Pontos_Rede_Azuis</name>
+    <Style id="icon-1899-0288D1-labelson">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Placemark>
+      <name/>
+      <description><![CDATA[descrição: <br>Nome: MGIN<br>Descriçã: http://geoplusbrasil.com/monografias/MGIN_Monografia.pdf]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="descrição">
+          <value/>
+        </Data>
+        <Data name="Nome">
+          <value>MGIN</value>
+        </Data>
+        <Data name="Descriçã">
+          <value>http://geoplusbrasil.com/monografias/MGIN_Monografia.pdf</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -46.328024,-22.318562,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[descrição: <br>Nome: SPA1<br>Descriçã: http://geoplusbrasil.com/monografias/SPA1_Monografia.pdf]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="descrição">
+          <value/>
+        </Data>
+        <Data name="Nome">
+          <value>SPA1</value>
+        </Data>
+        <Data name="Descriçã">
+          <value>http://geoplusbrasil.com/monografias/SPA1_Monografia.pdf</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -50.415939,-22.65557,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[descrição: <br>Nome: SPAB<br>Descriçã: http://geoplusbrasil.com/monografias/SPAB_Monografia.pdf]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="descrição">
+          <value/>
+        </Data>
+        <Data name="Nome">
+          <value>SPAB</value>
+        </Data>
+        <Data name="Descriçã">
+          <value>http://geoplusbrasil.com/monografias/SPAB_Monografia.pdf</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -49.239975,-22.878041,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[descrição: <br>Nome: SPAQ<br>Descriçã: http://geoplusbrasil.com/monografias/SPAQ_Monografia.pdf]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="descrição">
+          <value/>
+        </Data>
+        <Data name="Nome">
+          <value>SPAQ</value>
+        </Data>
+        <Data name="Descriçã">
+          <value>http://geoplusbrasil.com/monografias/SPAQ_Monografia.pdf</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -48.20611,-21.786676,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[descrição: <br>Nome: SPAR<br>Descriçã: http://geoplusbrasil.com/monografias/SPAR_Monografia.pdf]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="descrição">
+          <value/>
+        </Data>
+        <Data name="Nome">
+          <value>SPAR</value>
+        </Data>
+        <Data name="Descriçã">
+          <value>http://geoplusbrasil.com/monografias/SPAR_Monografia.pdf</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -50.439788,-21.184666,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[descrição: <br>Nome: SPB3<br>Descriçã: http://geoplusbrasil.com/monografias/SPB3_Monografia.pdf]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="descrição">
+          <value/>
+        </Data>
+        <Data name="Nome">
+          <value>SPB3</value>
+        </Data>
+        <Data name="Descriçã">
+          <value>http://geoplusbrasil.com/monografias/SPB3_Monografia.pdf</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -48.578453,-20.571723,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[descrição: <br>Nome: SPBO<br>Descriçã: http://geoplusbrasil.com/monografias/SPBO_Monografia.pdf]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="descrição">
+          <value/>
+        </Data>
+        <Data name="Nome">
+          <value>SPBO</value>
+        </Data>
+        <Data name="Descriçã">
+          <value>http://geoplusbrasil.com/monografias/SPBO_Monografia.pdf</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -48.432301,-22.852467,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[descrição: <br>Nome: SPBR<br>Descriçã: http://geoplusbrasil.com/monografias/SPBR_Monografia.pdf]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="descrição">
+          <value/>
+        </Data>
+        <Data name="Nome">
+          <value>SPBR</value>
+        </Data>
+        <Data name="Descriçã">
+          <value>http://geoplusbrasil.com/monografias/SPBR_Monografia.pdf</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -49.087532,-22.346107,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[descrição: <br>Nome: SPBS<br>Descriçã: http://geoplusbrasil.com/monografias/SPBS_Monografia.pdf]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="descrição">
+          <value/>
+        </Data>
+        <Data name="Nome">
+          <value>SPBS</value>
+        </Data>
+        <Data name="Descriçã">
+          <value>http://geoplusbrasil.com/monografias/SPBS_Monografia.pdf</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -50.734485,-21.923913,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[descrição: <br>Nome: SPC1<br>Descriçã: http://geoplusbrasil.com/monografias/SPC1_Monografia.pdf]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="descrição">
+          <value/>
+        </Data>
+        <Data name="Nome">
+          <value>SPC1</value>
+        </Data>
+        <Data name="Descriçã">
+          <value>http://geoplusbrasil.com/monografias/SPC1_Monografia.pdf</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -47.062693,-22.816286,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[descrição: <br>Nome: SPCT<br>Descriçã: http://geoplusbrasil.com/monografias/SPCT_Monografia.pdf]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="descrição">
+          <value/>
+        </Data>
+        <Data name="Nome">
+          <value>SPCT</value>
+        </Data>
+        <Data name="Descriçã">
+          <value>http://geoplusbrasil.com/monografias/SPCT_Monografia.pdf</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -49.000576,-21.148401,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[descrição: <br>Nome: SPDR<br>Descriçã: http://geoplusbrasil.com/monografias/SPDR_Monografia.pdf]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="descrição">
+          <value/>
+        </Data>
+        <Data name="Nome">
+          <value>SPDR</value>
+        </Data>
+        <Data name="Descriçã">
+          <value>http://geoplusbrasil.com/monografias/SPDR_Monografia.pdf</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -51.554257,-21.461604,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[descrição: <br>Nome: SPFA<br>Descriçã: http://geoplusbrasil.com/monografias/SPFA_Monografia.pdf]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="descrição">
+          <value/>
+        </Data>
+        <Data name="Nome">
+          <value>SPFA</value>
+        </Data>
+        <Data name="Descriçã">
+          <value>http://geoplusbrasil.com/monografias/SPFA_Monografia.pdf</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -47.436486,-20.55094,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[descrição: <br>Nome: SPGJ<br>Descriçã: http://geoplusbrasil.com/monografias/SPGJ_Monografia.pdf]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="descrição">
+          <value/>
+        </Data>
+        <Data name="Nome">
+          <value>SPGJ</value>
+        </Data>
+        <Data name="Descriçã">
+          <value>http://geoplusbrasil.com/monografias/SPGJ_Monografia.pdf</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -46.27317,-23.992416,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[descrição: <br>Nome: SPI1<br>Descriçã: http://geoplusbrasil.com/monografias/SPI1_Monografia.pdf]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="descrição">
+          <value/>
+        </Data>
+        <Data name="Nome">
+          <value>SPI1</value>
+        </Data>
+        <Data name="Descriçã">
+          <value>http://geoplusbrasil.com/monografias/SPI1_Monografia.pdf</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -49.091786,-23.422834,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[descrição: <br>Nome: SPIL<br>Descriçã: http://geoplusbrasil.com/monografias/SPIL_Monografia.pdf]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="descrição">
+          <value/>
+        </Data>
+        <Data name="Nome">
+          <value>SPIL</value>
+        </Data>
+        <Data name="Descriçã">
+          <value>http://geoplusbrasil.com/monografias/SPIL_Monografia.pdf</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -48.812209,-21.598008,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[descrição: <br>Nome: SPIP<br>Descriçã: http://geoplusbrasil.com/monografias/SPIP_Monografia.pdf]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="descrição">
+          <value/>
+        </Data>
+        <Data name="Nome">
+          <value>SPIP</value>
+        </Data>
+        <Data name="Descriçã">
+          <value>http://geoplusbrasil.com/monografias/SPIP_Monografia.pdf</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -48.021161,-23.574854,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[descrição: <br>Nome: SPIS<br>Descriçã: http://geoplusbrasil.com/monografias/SPIS_Monografia.pdf]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="descrição">
+          <value/>
+        </Data>
+        <Data name="Nome">
+          <value>SPIS</value>
+        </Data>
+        <Data name="Descriçã">
+          <value>http://geoplusbrasil.com/monografias/SPIS_Monografia.pdf</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -51.343385,-20.427785,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[descrição: <br>Nome: SPJB<br>Descriçã: http://geoplusbrasil.com/monografias/SPJB_Monografia.pdf]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="descrição">
+          <value/>
+        </Data>
+        <Data name="Nome">
+          <value>SPJB</value>
+        </Data>
+        <Data name="Descriçã">
+          <value>http://geoplusbrasil.com/monografias/SPJB_Monografia.pdf</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -48.286703,-21.241073,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[descrição: <br>Nome: SPJD<br>Descriçã: http://geoplusbrasil.com/monografias/SPJD_Monografia.pdf]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="descrição">
+          <value/>
+        </Data>
+        <Data name="Nome">
+          <value>SPJD</value>
+        </Data>
+        <Data name="Descriçã">
+          <value>http://geoplusbrasil.com/monografias/SPJD_Monografia.pdf</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -46.873928,-23.236113,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[descrição: <br>Nome: SPJS<br>Descriçã: http://geoplusbrasil.com/monografias/SPJS_Monografia.pdf]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="descrição">
+          <value/>
+        </Data>
+        <Data name="Nome">
+          <value>SPJS</value>
+        </Data>
+        <Data name="Descriçã">
+          <value>http://geoplusbrasil.com/monografias/SPJS_Monografia.pdf</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -50.555226,-20.269345,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[descrição: <br>Nome: SPJU<br>Descriçã: http://geoplusbrasil.com/monografias/SPJU_Monografia.pdf]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="descrição">
+          <value/>
+        </Data>
+        <Data name="Nome">
+          <value>SPJU</value>
+        </Data>
+        <Data name="Descriçã">
+          <value>http://geoplusbrasil.com/monografias/SPJU_Monografia.pdf</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -48.548939,-22.315709,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[descrição: <br>Nome: SPL1<br>Descriçã: http://geoplusbrasil.com/monografias/SPL1_Monografia.pdf]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="descrição">
+          <value/>
+        </Data>
+        <Data name="Nome">
+          <value>SPL1</value>
+        </Data>
+        <Data name="Descriçã">
+          <value>http://geoplusbrasil.com/monografias/SPL1_Monografia.pdf</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -49.764931,-21.6734,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[descrição: <br>Nome: SPLM<br>Descriçã: http://geoplusbrasil.com/monografias/SPLM_Monografia.pdf]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="descrição">
+          <value/>
+        </Data>
+        <Data name="Nome">
+          <value>SPLM</value>
+        </Data>
+        <Data name="Descriçã">
+          <value>http://geoplusbrasil.com/monografias/SPLM_Monografia.pdf</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -47.425249,-22.562508,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[descrição: <br>Nome: SPMA<br>Descriçã: http://geoplusbrasil.com/monografias/SPMA_Monografia.pdf]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="descrição">
+          <value/>
+        </Data>
+        <Data name="Nome">
+          <value>SPMA</value>
+        </Data>
+        <Data name="Descriçã">
+          <value>http://geoplusbrasil.com/monografias/SPMA_Monografia.pdf</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -49.945471,-22.22616,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[descrição: <br>Nome: SPMI<br>Descriçã: http://geoplusbrasil.com/monografias/SPMI_Monografia.pdf]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="descrição">
+          <value/>
+        </Data>
+        <Data name="Nome">
+          <value>SPMI</value>
+        </Data>
+        <Data name="Descriçã">
+          <value>http://geoplusbrasil.com/monografias/SPMI_Monografia.pdf</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -51.086379,-21.100493,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[descrição: <br>Nome: SPO1<br>Descriçã: http://geoplusbrasil.com/monografias/SPO1_Monografia.pdf]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="descrição">
+          <value/>
+        </Data>
+        <Data name="Nome">
+          <value>SPO1</value>
+        </Data>
+        <Data name="Descriçã">
+          <value>http://geoplusbrasil.com/monografias/SPO1_Monografia.pdf</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -47.893425,-20.706915,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[descrição: <br>Nome: SPOR<br>Descriçã: http://geoplusbrasil.com/monografias/SPOR_Monografia.pdf]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="descrição">
+          <value/>
+        </Data>
+        <Data name="Nome">
+          <value>SPOR</value>
+        </Data>
+        <Data name="Descriçã">
+          <value>http://geoplusbrasil.com/monografias/SPOR_Monografia.pdf</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -49.843288,-22.99917,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[descrição: <br>Nome: SPP5<br>Descriçã: http://geoplusbrasil.com/monografias/SPP5_Monografia.pdf]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="descrição">
+          <value/>
+        </Data>
+        <Data name="Nome">
+          <value>SPP5</value>
+        </Data>
+        <Data name="Descriçã">
+          <value>http://geoplusbrasil.com/monografias/SPP5_Monografia.pdf</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -47.6458,-22.733065,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[descrição: <br>Nome: SPPI<br>Descriçã: http://geoplusbrasil.com/monografias/SPPI_Monografia.pdf]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="descrição">
+          <value/>
+        </Data>
+        <Data name="Nome">
+          <value>SPPI</value>
+        </Data>
+        <Data name="Descriçã">
+          <value>http://geoplusbrasil.com/monografias/SPPI_Monografia.pdf</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -47.416904,-22.017701,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[descrição: <br>Nome: SPPP<br>Descriçã: http://geoplusbrasil.com/monografias/SPPP_Monografia.pdf]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="descrição">
+          <value/>
+        </Data>
+        <Data name="Nome">
+          <value>SPPP</value>
+        </Data>
+        <Data name="Descriçã">
+          <value>http://geoplusbrasil.com/monografias/SPPP_Monografia.pdf</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -51.408534,-22.119905,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[descrição: <br>Nome: SPR1<br>Descriçã: http://geoplusbrasil.com/monografias/SPR1_Monografia.pdf]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="descrição">
+          <value/>
+        </Data>
+        <Data name="Nome">
+          <value>SPR1</value>
+        </Data>
+        <Data name="Descriçã">
+          <value>http://geoplusbrasil.com/monografias/SPR1_Monografia.pdf</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -47.759118,-21.195651,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[descrição: <br>Nome: SPRI<br>Descriçã: http://geoplusbrasil.com/monografias/SPRI_Monografia.pdf]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="descrição">
+          <value/>
+        </Data>
+        <Data name="Nome">
+          <value>SPRI</value>
+        </Data>
+        <Data name="Descriçã">
+          <value>http://geoplusbrasil.com/monografias/SPRI_Monografia.pdf</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -49.401614,-20.803549,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[descrição: <br>Nome: SPSC<br>Descriçã: http://geoplusbrasil.com/monografias/SPSC_Monografia.pdf]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="descrição">
+          <value/>
+        </Data>
+        <Data name="Nome">
+          <value>SPSC</value>
+        </Data>
+        <Data name="Descriçã">
+          <value>http://geoplusbrasil.com/monografias/SPSC_Monografia.pdf</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -47.436437,-23.467688,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[descrição: <br>Nome: SPSE<br>Descriçã: http://geoplusbrasil.com/monografias/SPSE_Monografia.pdf]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="descrição">
+          <value/>
+        </Data>
+        <Data name="Nome">
+          <value>SPSE</value>
+        </Data>
+        <Data name="Descriçã">
+          <value>http://geoplusbrasil.com/monografias/SPSE_Monografia.pdf</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -45.621667,-23.784094,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[descrição: <br>Nome: SPSJ<br>Descriçã: http://geoplusbrasil.com/monografias/SPSJ_Monografia.pdf]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="descrição">
+          <value/>
+        </Data>
+        <Data name="Nome">
+          <value>SPSJ</value>
+        </Data>
+        <Data name="Descriçã">
+          <value>http://geoplusbrasil.com/monografias/SPSJ_Monografia.pdf</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -45.861738,-23.207132,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[descrição: <br>Nome: SPSM<br>Descriçã: http://geoplusbrasil.com/monografias/SPSM_Monografia.pdf]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="descrição">
+          <value/>
+        </Data>
+        <Data name="Nome">
+          <value>SPSM</value>
+        </Data>
+        <Data name="Descriçã">
+          <value>http://geoplusbrasil.com/monografias/SPSM_Monografia.pdf</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -48.158605,-22.569512,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[descrição: <br>Nome: SPSP<br>Descriçã: http://geoplusbrasil.com/monografias/SPSP_Monografia.pdf]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="descrição">
+          <value/>
+        </Data>
+        <Data name="Nome">
+          <value>SPSP</value>
+        </Data>
+        <Data name="Descriçã">
+          <value>http://geoplusbrasil.com/monografias/SPSP_Monografia.pdf</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -46.677124,-23.5461,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[descrição: <br>Nome: SPSR<br>Descriçã: http://geoplusbrasil.com/monografias/SPSR_Monografia.pdf]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="descrição">
+          <value/>
+        </Data>
+        <Data name="Nome">
+          <value>SPSR</value>
+        </Data>
+        <Data name="Descriçã">
+          <value>http://geoplusbrasil.com/monografias/SPSR_Monografia.pdf</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -47.89918,-22.004949,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[descrição: <br>Nome: SPUB<br>Descriçã: http://geoplusbrasil.com/monografias/SPUB_Monografia.pdf]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="descrição">
+          <value/>
+        </Data>
+        <Data name="Nome">
+          <value>SPUB</value>
+        </Data>
+        <Data name="Descriçã">
+          <value>http://geoplusbrasil.com/monografias/SPUB_Monografia.pdf</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -45.118901,-23.500177,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name/>
+      <description><![CDATA[descrição: <br>Nome: SPBG<br>Descriçã: http://geoplusbrasil.com/monografias/SPBG_Monografia.pdf]]></description>
+      <styleUrl>#icon-1899-0288D1-labelson</styleUrl>
+      <ExtendedData>
+        <Data name="descrição">
+          <value/>
+        </Data>
+        <Data name="Nome">
+          <value>SPBG</value>
+        </Data>
+        <Data name="Descriçã">
+          <value>http://geoplusbrasil.com/monografias/SPBG_Monografia.pdf</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          -46.540893,-22.956492,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

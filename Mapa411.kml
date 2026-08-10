@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="1">
+	<name>Mapa4.kml</name>
+	<Style id="2">
+		<IconStyle id="3">
+			<color>ff42b37c</color>
+			<scale>0.5</scale>
+			<heading>0</heading>
+			<Icon id="4">
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.5</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#21</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="21">
+		<IconStyle id="3">
+			<color>ff42b37c</color>
+			<scale>0.5</scale>
+			<heading>0</heading>
+			<Icon id="4">
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.5</scale>
+		</LabelStyle>
+	</Style>
+	<Placemark id="12">
+		<name>MGIN</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/MGIN_MONOGRAFIA.PDF<BR>CIDADE: INCONFIDENTES<BR>UF: MG]]></description>
+		<LookAt>
+			<longitude>-46.672323</longitude>
+			<latitude>-21.957418</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>1097494</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#20</styleUrl>
+		<Point id="11">
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-46.32802399999999,-22.318562,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="18">
+		<name>SPA1</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPA1_MONOGRAFIA.PDF<BR>CIDADE: ASSIS<BR>UF: SP]]></description>
+		<LookAt>
+			<longitude>-46.672323</longitude>
+			<latitude>-21.957418</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>1097494</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#20</styleUrl>
+		<Point id="17">
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-50.415939,-22.65557,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="24">
+		<name>SPAB</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPAB_MONOGRAFIA.PDF<BR>CIDADE: ÁGUAS DE SANTA BÁRBARA<BR>UF: SP]]></description>
+		<LookAt>
+			<longitude>-46.672323</longitude>
+			<latitude>-21.957418</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>1097494</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#20</styleUrl>
+		<Point id="23">
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-49.239976,-22.878041,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="30">
+		<name>SPAQ</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPAQ_MONOGRAFIA.PDF<BR>CIDADE: ARARAQUARA<BR>UF: SP]]></description>
+		<LookAt>
+			<longitude>-46.672323</longitude>
+			<latitude>-21.957418</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>1097494</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#20</styleUrl>
+		<Point id="29">
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-48.20610200000001,-21.786674,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="36">
+		<name>SPAR</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPAR_MONOGRAFIA.PDF<BR>CIDADE: ARAÇATUBA<BR>UF: SP]]></description>
+		<LookAt>
+			<longitude>-46.672323</longitude>
+			<latitude>-21.957418</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>1097494</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#20</styleUrl>
+		<Point id="35">
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-50.439788,-21.184666,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="42">
+		<name>SPB3</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPB3_MONOGRAFIA.PDF<BR>CIDADE: BARRETOS<BR>UF: SP]]></description>
+		<LookAt>
+			<longitude>-46.672323</longitude>
+			<latitude>-21.957418</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>1097494</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#20</styleUrl>
+		<Point id="41">
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-48.564137,-20.558874,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="48">
+		<name>SPBO</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPBO_MONOGRAFIA.PDF<BR>CIDADE: BOTUCATU<BR>UF: SP]]></description>
+		<LookAt>
+			<longitude>-46.672323</longitude>
+			<latitude>-21.957418</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>1097494</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#20</styleUrl>
+		<Point id="47">
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-48.43230100000001,-22.852467,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="54">
+		<name>SPBR</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPBR_MONOGRAFIA.PDF<BR>CIDADE: BAURU<BR>UF: SP]]></description>
+		<LookAt>
+			<longitude>-46.672323</longitude>
+			<latitude>-21.957418</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>1097494</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#20</styleUrl>
+		<Point id="53">
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-49.087532,-22.346107,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="60">
+		<name>SPBS</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPBS_MONOGRAFIA.PDF<BR>CIDADE: BASTOS<BR>UF: SP]]></description>
+		<LookAt>
+			<longitude>-46.672323</longitude>
+			<latitude>-21.957418</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>1097494</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#20</styleUrl>
+		<Point id="59">
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-50.73448499999999,-21.923913,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="66">
+		<name>SPC1</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPC1_MONOGRAFIA.PDF<BR>CIDADE: CAMPINAS<BR>UF: SP]]></description>
+		<LookAt>
+			<longitude>-46.672323</longitude>
+			<latitude>-21.957418</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>1097494</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#20</styleUrl>
+		<Point id="65">
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-47.062693,-22.816286,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="72">
+		<name>SPCT</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPCT_MONOGRAFIA.PDF<BR>CIDADE: CATANDUVA<BR>UF: SP]]></description>
+		<LookAt>
+			<longitude>-46.672323</longitude>
+			<latitude>-21.957418</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>1097494</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#20</styleUrl>
+		<Point id="71">
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-49.00074699999999,-21.14818,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="78">
+		<name>SPDR</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPDR_MONOGRAFIA.PDF<BR>CIDADE: DRACENA<BR>UF: SP]]></description>
+		<LookAt>
+			<longitude>-46.672323</longitude>
+			<latitude>-21.957418</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>1097494</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#20</styleUrl>
+		<Point id="77">
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-51.554257,-21.461604,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="84">
+		<name>SPGJ</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPGJ_MONOGRAFIA.PDF<BR>CIDADE: GUARUJÁ<BR>UF: SP]]></description>
+		<LookAt>
+			<longitude>-46.672323</longitude>
+			<latitude>-21.957418</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>1097494</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#20</styleUrl>
+		<Point id="83">
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-46.27317,-23.992416,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="90">
+		<name>SPI1</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPI1_MONOGRAFIA.PDF<BR>CIDADE: ITAÍ<BR>UF: SP]]></description>
+		<LookAt>
+			<longitude>-46.672323</longitude>
+			<latitude>-21.957418</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>1097494</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#20</styleUrl>
+		<Point id="89">
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-49.091786,-23.422834,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="96">
+		<name>SPIL</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPIL_MONOGRAFIA.PDF<BR>CIDADE: ITÁPOLIS<BR>UF: SP]]></description>
+		<LookAt>
+			<longitude>-46.672323</longitude>
+			<latitude>-21.957418</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>1097494</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#20</styleUrl>
+		<Point id="95">
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-48.81221,-21.598008,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="102">
+		<name>SPIP</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPIP_MONOGRAFIA.PDF<BR>CIDADE: ITAPETININGA<BR>UF: SP]]></description>
+		<LookAt>
+			<longitude>-46.672323</longitude>
+			<latitude>-21.957418</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>1097494</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#20</styleUrl>
+		<Point id="101">
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-48.021161,-23.574853,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="108">
+		<name>SPIS</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPIS_MONOGRAFIA.PDF<BR>CIDADE: ILHA SOLTEIRA<BR>UF: SP]]></description>
+		<LookAt>
+			<longitude>-46.672323</longitude>
+			<latitude>-21.957418</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>1097494</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#20</styleUrl>
+		<Point id="107">
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-51.343385,-20.427785,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="114">
+		<name>SPJB</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPJB_MONOGRAFIA.PDF<BR>CIDADE: JABOTICABAL<BR>UF: SP]]></description>
+		<LookAt>
+			<longitude>-46.672323</longitude>
+			<latitude>-21.957418</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>1097494</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#20</styleUrl>
+		<Point id="113">
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-48.28670300000001,-21.241073,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="120">
+		<name>SPJD</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPJD_MONOGRAFIA.PDF<BR>CIDADE: JUNDIAÍ<BR>UF: SP]]></description>
+		<LookAt>
+			<longitude>-46.672323</longitude>
+			<latitude>-21.957418</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>1097494</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#20</styleUrl>
+		<Point id="119">
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-46.87392799999999,-23.236113,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="126">
+		<name>SPJS</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPJS_MONOGRAFIA.PDF<BR>CIDADE: JALES<BR>UF: SP]]></description>
+		<LookAt>
+			<longitude>-46.672323</longitude>
+			<latitude>-21.957418</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>1097494</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#20</styleUrl>
+		<Point id="125">
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-50.555226,-20.269345,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="132">
+		<name>SPJU</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPJU_MONOGRAFIA.PDF<BR>CIDADE: JAÚ<BR>UF: SP]]></description>
+		<LookAt>
+			<longitude>-46.672323</longitude>
+			<latitude>-21.957418</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>1097494</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#20</styleUrl>
+		<Point id="131">
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-48.548939,-22.315709,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="138">
+		<name>SPL1</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPL1_MONOGRAFIA.PDF<BR>CIDADE: LINS<BR>UF: SP]]></description>
+		<LookAt>
+			<longitude>-46.672323</longitude>
+			<latitude>-21.957418</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>1097494</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#20</styleUrl>
+		<Point id="137">
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-49.764931,-21.6734,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="144">
+		<name>SPMA</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPMA_MONOGRAFIA.PDF<BR>CIDADE: MARÍLIA<BR>UF: SP]]></description>
+		<LookAt>
+			<longitude>-46.672323</longitude>
+			<latitude>-21.957418</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>1097494</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#20</styleUrl>
+		<Point id="143">
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-49.94547099999999,-22.22616,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="150">
+		<name>SPMI</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPMI_MONOGRAFIA.PDF<BR>CIDADE: MIRANDÓPOLIS<BR>UF: SP]]></description>
+		<LookAt>
+			<longitude>-46.672323</longitude>
+			<latitude>-21.957418</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>1097494</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#20</styleUrl>
+		<Point id="149">
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-51.08637899999999,-21.100493,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="156">
+		<name>SPO1</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPO1_MONOGRAFIA.PDF<BR>CIDADE: ORLÂNDIA<BR>UF: SP]]></description>
+		<LookAt>
+			<longitude>-46.672323</longitude>
+			<latitude>-21.957418</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>1097494</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#20</styleUrl>
+		<Point id="155">
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-47.89345100000001,-20.706819,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="162">
+		<name>SPOR</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPOR_MONOGRAFIA.PDF<BR>CIDADE: OURINHOS<BR>UF: SP]]></description>
+		<LookAt>
+			<longitude>-46.672323</longitude>
+			<latitude>-21.957418</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>1097494</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#20</styleUrl>
+		<Point id="161">
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-49.843288,-22.99917,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="168">
+		<name>SPP5</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPP5_MONOGRAFIA.PDF<BR>CIDADE: PIRACICABA<BR>UF: SP]]></description>
+		<LookAt>
+			<longitude>-46.672323</longitude>
+			<latitude>-21.957418</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>1097494</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#20</styleUrl>
+		<Point id="167">
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-47.68069899999999,-22.713229,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="174">
+		<name>SPPI</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPPI_MONOGRAFIA.PDF<BR>CIDADE: PIRASSUNUNGA<BR>UF: SP]]></description>
+		<LookAt>
+			<longitude>-46.672323</longitude>
+			<latitude>-21.957418</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>1097494</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#20</styleUrl>
+		<Point id="173">
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-47.416904,-22.017701,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="180">
+		<name>SPPP</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPPP_MONOGRAFIA.PDF<BR>CIDADE: PRESIDENTE PRUDENTE<BR>UF: SP]]></description>
+		<LookAt>
+			<longitude>-46.672323</longitude>
+			<latitude>-21.957418</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>1097494</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#20</styleUrl>
+		<Point id="179">
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-51.408534,-22.119905,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="186">
+		<name>SPR1</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPR1_MONOGRAFIA.PDF<BR>CIDADE: RIBEIRÃO PRETO<BR>UF: SP]]></description>
+		<LookAt>
+			<longitude>-46.672323</longitude>
+			<latitude>-21.957418</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>1097494</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#20</styleUrl>
+		<Point id="185">
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-47.794119,-21.170279,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="192">
+		<name>SPRI</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPRI_MONOGRAFIA.PDF<BR>CIDADE: SÃO JOSÉ DO RIO PRETO<BR>UF: S´P]]></description>
+		<LookAt>
+			<longitude>-46.672323</longitude>
+			<latitude>-21.957418</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>1097494</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#20</styleUrl>
+		<Point id="191">
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-49.401614,-20.803549,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="198">
+		<name>SPSC</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPSC_MONOGRAFIA.PDF<BR>CIDADE: SOROCABA<BR>UF: SP]]></description>
+		<LookAt>
+			<longitude>-46.672323</longitude>
+			<latitude>-21.957418</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>1097494</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#20</styleUrl>
+		<Point id="197">
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-47.436437,-23.467688,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="204">
+		<name>SPSE</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPSE_MONOGRAFIA.PDF<BR>CIDADE: SÃO SEBASTIÃO<BR>UF: SP]]></description>
+		<LookAt>
+			<longitude>-46.672323</longitude>
+			<latitude>-21.957418</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>1097494</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#20</styleUrl>
+		<Point id="203">
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-45.621654,-23.784048,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="210">
+		<name>SPSJ</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPSJ_MONOGRAFIA.PDF<BR>CIDADE: SÃO JOSÉ DOS CAMPOS<BR>UF: SP]]></description>
+		<LookAt>
+			<longitude>-46.672323</longitude>
+			<latitude>-21.957418</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>1097494</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#20</styleUrl>
+		<Point id="209">
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-45.86173800000001,-23.207132,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="216">
+		<name>SPSM</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPSM_MONOGRAFIA.PDF<BR>CIDADE: SANTA MARIA DA SERRA<BR>UF: SP]]></description>
+		<LookAt>
+			<longitude>-46.672323</longitude>
+			<latitude>-21.957418</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>1097494</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#20</styleUrl>
+		<Point id="215">
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-48.158605,-22.569512,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="222">
+		<name>SPSP</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPSP_MONOGRAFIA.PDF<BR>CIDADE: SÃO PAULO<BR>UF: SP]]></description>
+		<LookAt>
+			<longitude>-46.672323</longitude>
+			<latitude>-21.957418</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>1097494</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#20</styleUrl>
+		<Point id="221">
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-46.67712400000001,-23.5461,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="228">
+		<name>SPSR</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPSR_MONOGRAFIA.PDF<BR>CIDADE: SÃO CARLOS<BR>UF: SP]]></description>
+		<LookAt>
+			<longitude>-46.672323</longitude>
+			<latitude>-21.957418</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>1097494</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#20</styleUrl>
+		<Point id="227">
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-47.89918,-22.004949,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="234">
+		<name>SPUB</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPUB_MONOGRAFIA.PDF<BR>CIDADE: UBATUBA<BR>UF: SP]]></description>
+		<LookAt>
+			<longitude>-46.672323</longitude>
+			<latitude>-21.957418</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<range>1097494</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#20</styleUrl>
+		<Point id="233">
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-45.118901,-23.500177,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

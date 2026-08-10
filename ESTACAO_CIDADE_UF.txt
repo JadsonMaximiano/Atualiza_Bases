@@ -1,0 +1,185 @@
+﻿ESTACAO;CIDADE;UF
+PEC1;Caruaru;PE
+SPFZ;Ferraz;SP
+SCIM;Imbituba;SC
+SPCT;Catanduva;SP
+SPO1;Orlândia;SP
+SPAQ;Araraquara;SP
+SPR1;Ribeirão Preto;SP
+SPB3;Barretos;SP
+SPIS;Ilha Solteira;SP
+SPDR;Dracena;SP
+SPFE;Fernandópolis;SP
+SPFR;Franca;SP
+SPTU;Tupã;SP
+ACRB;Rio Branco;AC
+AMMN;Manaus;AM
+APMC;Macapá;AP
+BASV;Salvador;BA
+CEFL;Fortaleza;CE
+CEES;Eusébio;CE
+ESVT;Vitória;ES
+GOGN;Goiânia;GO
+MASL;São Luís;MA
+MGAR;Araguari;MG
+MGBH;Belo Horizonte;MG
+MSCG;Campo Grande;MS
+MSCP;Campo Grande;MS
+SPFA;Franca;SP
+MTCU;Cuiabá;MT
+SPTB;Taubaté;SP
+SPBG; Bragança Paulista;SP
+SPLM;Limeira;SP
+MTSP;Sinop;MT
+PABL;Belém;PA
+PBPE;João Pessoa;PB
+PEC1;Caruaru;PE
+PEAG;Cabo de Santo Agostinho;PE
+PEGH;Garanhuns;PE
+PEVS;Vitória de Santo Antão;PE
+ALAR;Arapiraca;AL
+ALMC;Maceió;AL
+BAPA;Paulo Afonso;BA
+CRAT;Crato;CE
+PEAF;Afogados da Ingazeira;PE
+PEPE;Petrolina;PE
+PERE;Recife;PE
+PITR;Teresina;PI
+PRCR;Curitiba;PR
+PRCL;Cascavel;PR
+PRMA;Maringá;PR
+PRLD;Londrina;PR
+PRPG;Ponta Grossa;PR
+RJMA;Macaé;RJ
+RJTR;Teresópolis;RJ
+RJIT;Itaguaí;RJ
+RJBM;Barra Mansa;RJ
+RJCG;Campos dos Goytacazes;RJ
+RJR1;Rio de Janeiro;RJ
+RJNT;Niterói;RJ
+RJSQ;Saquarema;RJ
+RJCF;Cabo Frio;RJ
+RJAR;Angra dos Reis;RJ
+MGJF;Juiz de Fora;MG
+RJVA;Vassouras;RJ
+RNNT;Natal;RN
+ROPV;Porto Velho;RO
+RRBV;Boa Vista;RR
+RSC1;Caxias do Sul;RS
+RSOS;Osório;RS
+RSSA;Santo Ângelo;RS
+RSPA;Porto Alegre;RS
+RSSM;Santa Maria;RS
+RSPL;Pelotas;RS
+RSCC;Capão da Canoa;RS
+RSAL;Alegrete;RS
+RSCL;Cerro Largo;RS
+RSPF;Passo Fundo;RS
+SCCH;Chapecó;RS
+RSLJ;Lajeado;RS
+RSLP;São Leopoldo;RS
+SCCR;Criciúma;SC
+SCFL;Florianópolis;SC
+SCBL;Blumenau;SC
+SCJV;Joinville;SC
+SCIT;Itajaí;SC
+SCC1;Chapecó;SC
+SCBR;Brusque;SC
+SCIB;Imbituba;SC
+SCCA;Caçador;SC
+SCLA;Lages;SC
+SEAR;Aracaju;SE
+TOPM;Palmas;TO
+MGIN;Inconfidentes;MG
+MGIT;Itajubá;MG
+MGUB;Uberlândia;MG
+MGVA;Varginha;MG
+MGVI;Viçosa;MG
+MSCG;Campo Grande;MS
+MTCU;Cuiabá;MT
+PRCR;Curitiba;PR
+PRMA;Maringá;PR
+RJBM;Barra Mansa;RJ
+RJCG;Campos dos Goytacazes;RJ
+RSSM;Santa Maria;RS
+SCAQ;Araquari;SC
+SCFL;Florianópolis;SC
+SPA1;Assis;SP
+SPAB;Águas de Santa Barbara;SP
+SPAR;Araçatuba;SP
+SPBO;Botucatu;SP
+SPBP;Bragança Paulista;SP
+SPBR;Bauru;SP
+SPBS;Bastos;SP
+SPC1;Campinas;SP
+SPCN;Cananeia;SP
+SPGJ;Guarujá;SP
+SPI1;Itaí;SP
+SPIL;Itápolis;SP
+SPIP;Itapetininga;SP
+SPIV;Itapeva;SP
+SPJA;Jacareí;SP
+SPJB;Jaboticabal;SP
+SPJD;Jundiaí;SP
+SPJS;Jales;SP
+SPJU;Jaú;SP
+SPL1;Lins;SP
+SPL2;Lorena;SP
+SPLI;Limeira;SP
+SPMA;Marília;SP
+SPOR;Ourinhos;SP
+SPP5;Piracicaba;SP
+SPPC;Paulicéia;SP
+SPPI;Pirassununga;SP
+SPPP;Presidente Prudente;SP
+SPRG;Registro;SP
+SPRI;São José do Rio Preto;SP
+SPSC;Sorocaba;SP
+SPSJ;São José dos Campos;SP
+SPSM;Santa Maria da Serra;SP
+SPSP;São Paulo;SP
+SPSR;São Carlos;SP
+SPSE;São Sebastião;SP
+SPUB;Ubatuba;SP
+PERE;Recife;PE
+MTSP;Sinop;MT
+RSCC;Capão da Canoa;RS
+RSCS;Caxias do Sul;RS
+SCCR;Criciúma;SC
+MGG3;Guaxupé;MG
+SPMI;Mirandópolis;SP
+SPMO;Mongaguá;SP
+SPTB;Taubaté;SP
+SPVT;Votuporanga;SP
+MGPA;Pouso Alegre;MG
+BRDF;Brasília;DF
+RJBZ;Armação dos Búzios;RJ
+MGG4;Guaxupé;MG
+SPSI;Santa Isabel;SP
+SPMG;Mogi Guaçu;SP
+MGLA;Lavras;MG
+RNNA;Natal;RN
+PBCG;Campina Grande;PB
+PBJP;João Pessoa;PB
+RNMS;Mossoró;RN
+SPCL;São Carlos;SP
+PBPT;Patos;PB
+PEAF;Afogados da Ingazeira;PE
+CECR;Crato;CE
+RNPF;Pau dos Ferros;RN
+PRCT;Curitiba;PR
+SEAJ;Aracaju;SE
+PEPE;Petrolina;PE
+BAPA;Paulo Afonso;BA
+BAIT;Itaberaba;BA
+BABR;Barreiras;BA
+BABJ;Bom Jesus da Lapa;BA
+BATF;Teixeiras de Freitas;BA
+BAVC;Vitória da Conquista;BA
+BAIL;Ilhéus;BA
+PISR;São Raimundo Nonato;PI
+MGMT;Monte Carmelo;MG
+PRCV;Cascavel;PR
+PRGU;Guarapuava;PR
+PRUR;Umuarama;PR
+SCBI;Biguaçu;SC

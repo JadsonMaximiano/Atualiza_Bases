@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Folder id="2">
+            <LookAt>
+                <longitude>-46.672323</longitude>
+                <latitude>-21.957418</latitude>
+                <heading>0</heading>
+                <tilt>0</tilt>
+                <range>1097494</range>
+                <gx:altitudeMode>relativeToSeaFloor </gx:altitudeMode>
+            </LookAt>
+        </Folder>
+    </Document>
+</kml>

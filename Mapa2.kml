@@ -1,0 +1,919 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Folder>
+	<name>Pontos_NTRIP_Verdes</name>
+	<visibility>0</visibility>
+	<Placemark>
+		<visibility>0</visibility>
+		<description><![CDATA[descrição: <br>ALMA: BASV<br>-9.5547113: -12.939246839999999<br>-35.777101: -38.432253719999999<br>84.786: 76.319999999999993]]></description>
+		<styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="descrição">
+			</Data>
+			<Data name="ALMA">
+				<value>BASV</value>
+			</Data>
+			<Data name="-9.5547113">
+				<value>-12.939246839999999</value>
+			</Data>
+			<Data name="-35.777101">
+				<value>-38.432253719999999</value>
+			</Data>
+			<Data name="84.786">
+				<value>76.319999999999993</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-38.432254,-12.939247,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>0</visibility>
+		<description><![CDATA[descrição: <br>ALMA: BRDF<br>-9.5547113: -15.947475340000000<br>-35.777101: -47.877868980000002<br>84.786: 1106.019999999999982]]></description>
+		<styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="descrição">
+			</Data>
+			<Data name="ALMA">
+				<value>BRDF</value>
+			</Data>
+			<Data name="-9.5547113">
+				<value>-15.947475340000000</value>
+			</Data>
+			<Data name="-35.777101">
+				<value>-47.877868980000002</value>
+			</Data>
+			<Data name="84.786">
+				<value>1106.019999999999982</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-47.877869,-15.947475,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>0</visibility>
+		<description><![CDATA[descrição: <br>ALMA: ESVT<br>-9.5547113: -20.310794460000000<br>-35.777101: -40.319454890000003<br>84.786: 14.314000000000000]]></description>
+		<styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="descrição">
+			</Data>
+			<Data name="ALMA">
+				<value>ESVT</value>
+			</Data>
+			<Data name="-9.5547113">
+				<value>-20.310794460000000</value>
+			</Data>
+			<Data name="-35.777101">
+				<value>-40.319454890000003</value>
+			</Data>
+			<Data name="84.786">
+				<value>14.314000000000000</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-40.319455,-20.310794,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>0</visibility>
+		<description><![CDATA[descrição: <br>ALMA: GOGN<br>-9.5547113: -16.664728470000000<br>-35.777101: -49.254673040000000<br>84.786: 734.201000000000022]]></description>
+		<styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="descrição">
+			</Data>
+			<Data name="ALMA">
+				<value>GOGN</value>
+			</Data>
+			<Data name="-9.5547113">
+				<value>-16.664728470000000</value>
+			</Data>
+			<Data name="-35.777101">
+				<value>-49.254673040000000</value>
+			</Data>
+			<Data name="84.786">
+				<value>734.201000000000022</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-49.254673,-16.664728,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>0</visibility>
+		<description><![CDATA[descrição: <br>ALMA: MGBH<br>-9.5547113: -19.941900850000000<br>-35.777101: -43.924896969999999<br>84.786: 974855.000000000000000]]></description>
+		<styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="descrição">
+			</Data>
+			<Data name="ALMA">
+				<value>MGBH</value>
+			</Data>
+			<Data name="-9.5547113">
+				<value>-19.941900850000000</value>
+			</Data>
+			<Data name="-35.777101">
+				<value>-43.924896969999999</value>
+			</Data>
+			<Data name="84.786">
+				<value>974855.000000000000000</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-43.924897,-19.941901,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>0</visibility>
+		<description><![CDATA[descrição: <br>ALMA: MGIT<br>-9.5547113: -22.412517390000001<br>-35.777101: -45.452573670000000<br>84.786: 854.068999999999960]]></description>
+		<styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="descrição">
+			</Data>
+			<Data name="ALMA">
+				<value>MGIT</value>
+			</Data>
+			<Data name="-9.5547113">
+				<value>-22.412517390000001</value>
+			</Data>
+			<Data name="-35.777101">
+				<value>-45.452573670000000</value>
+			</Data>
+			<Data name="84.786">
+				<value>854.068999999999960</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-45.45257399999999,-22.412517,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>0</visibility>
+		<description><![CDATA[descrição: <br>ALMA: MGPA<br>-9.5547113: -22.254497640000000<br>-35.777101: -45.929334189999999<br>84.786: 822.289999999999964]]></description>
+		<styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="descrição">
+			</Data>
+			<Data name="ALMA">
+				<value>MGPA</value>
+			</Data>
+			<Data name="-9.5547113">
+				<value>-22.254497640000000</value>
+			</Data>
+			<Data name="-35.777101">
+				<value>-45.929334189999999</value>
+			</Data>
+			<Data name="84.786">
+				<value>822.289999999999964</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-45.929334,-22.254498,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>0</visibility>
+		<description><![CDATA[descrição: <br>ALMA: MGUB<br>-9.5547113: -18.919163340000001<br>-35.777101: -48.256049349999998<br>84.786: 869.240999999999985]]></description>
+		<styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="descrição">
+			</Data>
+			<Data name="ALMA">
+				<value>MGUB</value>
+			</Data>
+			<Data name="-9.5547113">
+				<value>-18.919163340000001</value>
+			</Data>
+			<Data name="-35.777101">
+				<value>-48.256049349999998</value>
+			</Data>
+			<Data name="84.786">
+				<value>869.240999999999985</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-48.256049,-18.919163,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>0</visibility>
+		<description><![CDATA[descrição: <br>ALMA: MGVI<br>-9.5547113: -20.761500550000001<br>-35.777101: -42.869989490000002<br>84.786: 665.955000000000041]]></description>
+		<styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="descrição">
+			</Data>
+			<Data name="ALMA">
+				<value>MGVI</value>
+			</Data>
+			<Data name="-9.5547113">
+				<value>-20.761500550000001</value>
+			</Data>
+			<Data name="-35.777101">
+				<value>-42.869989490000002</value>
+			</Data>
+			<Data name="84.786">
+				<value>665.955000000000041</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-42.869989,-20.761501,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>0</visibility>
+		<description><![CDATA[descrição: <br>ALMA: MTCU<br>-9.5547113: -15.555262989999999<br>-35.777101: -56.069866550000000<br>84.786: 237.443999999999988]]></description>
+		<styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="descrição">
+			</Data>
+			<Data name="ALMA">
+				<value>MTCU</value>
+			</Data>
+			<Data name="-9.5547113">
+				<value>-15.555262989999999</value>
+			</Data>
+			<Data name="-35.777101">
+				<value>-56.069866550000000</value>
+			</Data>
+			<Data name="84.786">
+				<value>237.443999999999988</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-56.06986700000001,-15.555263,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>0</visibility>
+		<description><![CDATA[descrição: <br>ALMA: PERE<br>-9.5547113: -8.007272310999999<br>-35.777101: -34.912572930000003<br>84.786: 19.751999999999999]]></description>
+		<styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="descrição">
+			</Data>
+			<Data name="ALMA">
+				<value>PERE</value>
+			</Data>
+			<Data name="-9.5547113">
+				<value>-8.007272310999999</value>
+			</Data>
+			<Data name="-35.777101">
+				<value>-34.912572930000003</value>
+			</Data>
+			<Data name="84.786">
+				<value>19.751999999999999</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-34.912573,-8.007272,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>0</visibility>
+		<description><![CDATA[descrição: <br>ALMA: PRCR<br>-9.5547113: -25.448368599999998<br>-35.777101: -49.230954769999997<br>84.786: 925.807000000000016]]></description>
+		<styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="descrição">
+			</Data>
+			<Data name="ALMA">
+				<value>PRCR</value>
+			</Data>
+			<Data name="-9.5547113">
+				<value>-25.448368599999998</value>
+			</Data>
+			<Data name="-35.777101">
+				<value>-49.230954769999997</value>
+			</Data>
+			<Data name="84.786">
+				<value>925.807000000000016</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-49.230955,-25.448369,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>0</visibility>
+		<description><![CDATA[descrição: <br>ALMA: PRMA<br>-9.5547113: -23.409688289999998<br>-35.777101: -51.938424210000001<br>84.786: 543.365000000000009]]></description>
+		<styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="descrição">
+			</Data>
+			<Data name="ALMA">
+				<value>PRMA</value>
+			</Data>
+			<Data name="-9.5547113">
+				<value>-23.409688289999998</value>
+			</Data>
+			<Data name="-35.777101">
+				<value>-51.938424210000001</value>
+			</Data>
+			<Data name="84.786">
+				<value>543.365000000000009</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-51.938424,-23.409688,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>0</visibility>
+		<description><![CDATA[descrição: <br>ALMA: RJAR<br>-9.5547113: -22.999191079999999<br>-35.777101: -44.302202250000001<br>84.786: 14.339000000000000]]></description>
+		<styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="descrição">
+			</Data>
+			<Data name="ALMA">
+				<value>RJAR</value>
+			</Data>
+			<Data name="-9.5547113">
+				<value>-22.999191079999999</value>
+			</Data>
+			<Data name="-35.777101">
+				<value>-44.302202250000001</value>
+			</Data>
+			<Data name="84.786">
+				<value>14.339000000000000</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-44.302202,-22.999191,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>0</visibility>
+		<description><![CDATA[descrição: <br>ALMA: RJBM<br>-9.5547113: -22.541923420000000<br>-35.777101: -44.172084179999999<br>84.786: 382.168000000000006]]></description>
+		<styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="descrição">
+			</Data>
+			<Data name="ALMA">
+				<value>RJBM</value>
+			</Data>
+			<Data name="-9.5547113">
+				<value>-22.541923420000000</value>
+			</Data>
+			<Data name="-35.777101">
+				<value>-44.172084179999999</value>
+			</Data>
+			<Data name="84.786">
+				<value>382.168000000000006</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-44.172084,-22.541923,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>0</visibility>
+		<description><![CDATA[descrição: <br>ALMA: RJBZ<br>-9.5547113: -22.781567060000000<br>-35.777101: -41.946241919999999<br>84.786: 10.750000000000000]]></description>
+		<styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="descrição">
+			</Data>
+			<Data name="ALMA">
+				<value>RJBZ</value>
+			</Data>
+			<Data name="-9.5547113">
+				<value>-22.781567060000000</value>
+			</Data>
+			<Data name="-35.777101">
+				<value>-41.946241919999999</value>
+			</Data>
+			<Data name="84.786">
+				<value>10.750000000000000</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-41.946242,-22.781567,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>0</visibility>
+		<description><![CDATA[descrição: <br>ALMA: RJCG<br>-9.5547113: -21.764865810000000<br>-35.777101: -41.326155749999998<br>84.786: 9.961000000000000]]></description>
+		<styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="descrição">
+			</Data>
+			<Data name="ALMA">
+				<value>RJCG</value>
+			</Data>
+			<Data name="-9.5547113">
+				<value>-21.764865810000000</value>
+			</Data>
+			<Data name="-35.777101">
+				<value>-41.326155749999998</value>
+			</Data>
+			<Data name="84.786">
+				<value>9.961000000000000</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-41.326156,-21.764866,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>0</visibility>
+		<description><![CDATA[descrição: <br>ALMA: RJIT<br>-9.5547113: -22.871904220000001<br>-35.777101: -43.673497110000000<br>84.786: 3.147000000000000]]></description>
+		<styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="descrição">
+			</Data>
+			<Data name="ALMA">
+				<value>RJIT</value>
+			</Data>
+			<Data name="-9.5547113">
+				<value>-22.871904220000001</value>
+			</Data>
+			<Data name="-35.777101">
+				<value>-43.673497110000000</value>
+			</Data>
+			<Data name="84.786">
+				<value>3.147000000000000</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-43.673497,-22.871904,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>0</visibility>
+		<description><![CDATA[descrição: <br>ALMA: RJNT<br>-9.5547113: -22.905935769999999<br>-35.777101: -43.133803980000003<br>84.786: 22.439000000000000]]></description>
+		<styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="descrição">
+			</Data>
+			<Data name="ALMA">
+				<value>RJNT</value>
+			</Data>
+			<Data name="-9.5547113">
+				<value>-22.905935769999999</value>
+			</Data>
+			<Data name="-35.777101">
+				<value>-43.133803980000003</value>
+			</Data>
+			<Data name="84.786">
+				<value>22.439000000000000</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-43.133804,-22.905936,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>0</visibility>
+		<description><![CDATA[descrição: <br>ALMA: RJR1<br>-9.5547113: -22.887212139999999<br>-35.777101: -43.350675310000000<br>84.786: 35.726999999999997]]></description>
+		<styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="descrição">
+			</Data>
+			<Data name="ALMA">
+				<value>RJR1</value>
+			</Data>
+			<Data name="-9.5547113">
+				<value>-22.887212139999999</value>
+			</Data>
+			<Data name="-35.777101">
+				<value>-43.350675310000000</value>
+			</Data>
+			<Data name="84.786">
+				<value>35.726999999999997</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-43.350675,-22.887212,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>0</visibility>
+		<description><![CDATA[descrição: <br>ALMA: RJVA<br>-9.5547113: -22.402211009999998<br>-35.777101: -43.651862739999999<br>84.786: 444.976999999999975]]></description>
+		<styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="descrição">
+			</Data>
+			<Data name="ALMA">
+				<value>RJVA</value>
+			</Data>
+			<Data name="-9.5547113">
+				<value>-22.402211009999998</value>
+			</Data>
+			<Data name="-35.777101">
+				<value>-43.651862739999999</value>
+			</Data>
+			<Data name="84.786">
+				<value>444.976999999999975</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-43.651863,-22.402211,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>0</visibility>
+		<description><![CDATA[descrição: <br>ALMA: RSC1<br>-9.5547113: -29.167325190000000<br>-35.777101: -51.161596060000001<br>84.786: 815.789999999999964]]></description>
+		<styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="descrição">
+			</Data>
+			<Data name="ALMA">
+				<value>RSC1</value>
+			</Data>
+			<Data name="-9.5547113">
+				<value>-29.167325190000000</value>
+			</Data>
+			<Data name="-35.777101">
+				<value>-51.161596060000001</value>
+			</Data>
+			<Data name="84.786">
+				<value>815.789999999999964</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-51.16159600000001,-29.16732500000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>0</visibility>
+		<description><![CDATA[descrição: <br>ALMA: RSLP<br>-9.5547113: -29.792994820000001<br>-35.777101: -51.152422150000000<br>84.786: 81.268000000000001]]></description>
+		<styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="descrição">
+			</Data>
+			<Data name="ALMA">
+				<value>RSLP</value>
+			</Data>
+			<Data name="-9.5547113">
+				<value>-29.792994820000001</value>
+			</Data>
+			<Data name="-35.777101">
+				<value>-51.152422150000000</value>
+			</Data>
+			<Data name="84.786">
+				<value>81.268000000000001</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-51.152422,-29.792995,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>0</visibility>
+		<description><![CDATA[descrição: <br>ALMA: RSPA<br>-9.5547113: -30.074042429999999<br>-35.777101: -51.119764789999998<br>84.786: 76.745000000000005]]></description>
+		<styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="descrição">
+			</Data>
+			<Data name="ALMA">
+				<value>RSPA</value>
+			</Data>
+			<Data name="-9.5547113">
+				<value>-30.074042429999999</value>
+			</Data>
+			<Data name="-35.777101">
+				<value>-51.119764789999998</value>
+			</Data>
+			<Data name="84.786">
+				<value>76.745000000000005</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-51.11976500000001,-30.074042,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>0</visibility>
+		<description><![CDATA[descrição: <br>ALMA: RSSM<br>-9.5547113: -29.718923889999999<br>-35.777101: -53.716593140000001<br>84.786: 113.106999999999999]]></description>
+		<styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="descrição">
+			</Data>
+			<Data name="ALMA">
+				<value>RSSM</value>
+			</Data>
+			<Data name="-9.5547113">
+				<value>-29.718923889999999</value>
+			</Data>
+			<Data name="-35.777101">
+				<value>-53.716593140000001</value>
+			</Data>
+			<Data name="84.786">
+				<value>113.106999999999999</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-53.716593,-29.718924,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>0</visibility>
+		<description><![CDATA[descrição: <br>ALMA: SCAQ<br>-9.5547113: -26.393756750000001<br>-35.777101: -48.737440769999999<br>84.786: 17.285000000000000]]></description>
+		<styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="descrição">
+			</Data>
+			<Data name="ALMA">
+				<value>SCAQ</value>
+			</Data>
+			<Data name="-9.5547113">
+				<value>-26.393756750000001</value>
+			</Data>
+			<Data name="-35.777101">
+				<value>-48.737440769999999</value>
+			</Data>
+			<Data name="84.786">
+				<value>17.285000000000000</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-48.737441,-26.393757,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>0</visibility>
+		<description><![CDATA[descrição: <br>ALMA: SCFL<br>-9.5547113: -27.594433259999999<br>-35.777101: -48.542083390000002<br>84.786: 26.472999999999999]]></description>
+		<styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="descrição">
+			</Data>
+			<Data name="ALMA">
+				<value>SCFL</value>
+			</Data>
+			<Data name="-9.5547113">
+				<value>-27.594433259999999</value>
+			</Data>
+			<Data name="-35.777101">
+				<value>-48.542083390000002</value>
+			</Data>
+			<Data name="84.786">
+				<value>26.472999999999999</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-48.542083,-27.594433,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>0</visibility>
+		<description><![CDATA[descrição: <br>ALMA: SPC1<br>-9.5547113: -22.816286259999998<br>-35.777101: -47.062693289999999<br>84.786: 622.980000000000018]]></description>
+		<styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="descrição">
+			</Data>
+			<Data name="ALMA">
+				<value>SPC1</value>
+			</Data>
+			<Data name="-9.5547113">
+				<value>-22.816286259999998</value>
+			</Data>
+			<Data name="-35.777101">
+				<value>-47.062693289999999</value>
+			</Data>
+			<Data name="84.786">
+				<value>622.980000000000018</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-47.062693,-22.816286,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>0</visibility>
+		<description><![CDATA[descrição: <br>ALMA: SPCN<br>-9.5547113: -25.020239310000001<br>-35.777101: -47.924968520000000<br>84.786: 6.055000000000000]]></description>
+		<styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="descrição">
+			</Data>
+			<Data name="ALMA">
+				<value>SPCN</value>
+			</Data>
+			<Data name="-9.5547113">
+				<value>-25.020239310000001</value>
+			</Data>
+			<Data name="-35.777101">
+				<value>-47.924968520000000</value>
+			</Data>
+			<Data name="84.786">
+				<value>6.055000000000000</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-47.924969,-25.020239,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>0</visibility>
+		<description><![CDATA[descrição: <br>ALMA: SPFE<br>-9.5547113: -20.262875220000002<br>-35.777101: -50.228695190000003<br>84.786: 496.127999999999986]]></description>
+		<styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="descrição">
+			</Data>
+			<Data name="ALMA">
+				<value>SPFE</value>
+			</Data>
+			<Data name="-9.5547113">
+				<value>-20.262875220000002</value>
+			</Data>
+			<Data name="-35.777101">
+				<value>-50.228695190000003</value>
+			</Data>
+			<Data name="84.786">
+				<value>496.127999999999986</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-50.22869499999999,-20.262875,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>0</visibility>
+		<description><![CDATA[descrição: <br>ALMA: SPIV<br>-9.5547113: -23.999455739999998<br>-35.777101: -48.888482879999998<br>84.786: 767.033999999999992]]></description>
+		<styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="descrição">
+			</Data>
+			<Data name="ALMA">
+				<value>SPIV</value>
+			</Data>
+			<Data name="-9.5547113">
+				<value>-23.999455739999998</value>
+			</Data>
+			<Data name="-35.777101">
+				<value>-48.888482879999998</value>
+			</Data>
+			<Data name="84.786">
+				<value>767.033999999999992</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-48.88848299999999,-23.999456,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>0</visibility>
+		<description><![CDATA[descrição: <br>ALMA: SPL2<br>-9.5547113: -22.752508750000001<br>-35.777101: -45.121889009999997<br>84.786: 542.485999999999990]]></description>
+		<styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="descrição">
+			</Data>
+			<Data name="ALMA">
+				<value>SPL2</value>
+			</Data>
+			<Data name="-9.5547113">
+				<value>-22.752508750000001</value>
+			</Data>
+			<Data name="-35.777101">
+				<value>-45.121889009999997</value>
+			</Data>
+			<Data name="84.786">
+				<value>542.485999999999990</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-45.121889,-22.752509,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>0</visibility>
+		<description><![CDATA[descrição: <br>ALMA: SPMO<br>-9.5547113: -24.112526419999998<br>-35.777101: -46.702625560000001<br>84.786: 9.539999999999999]]></description>
+		<styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="descrição">
+			</Data>
+			<Data name="ALMA">
+				<value>SPMO</value>
+			</Data>
+			<Data name="-9.5547113">
+				<value>-24.112526419999998</value>
+			</Data>
+			<Data name="-35.777101">
+				<value>-46.702625560000001</value>
+			</Data>
+			<Data name="84.786">
+				<value>9.539999999999999</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-46.70262600000001,-24.112526,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>0</visibility>
+		<description><![CDATA[descrição: <br>ALMA: SPPC<br>-9.5547113: -21.278961559999999<br>-35.777101: -51.778242149999997<br>84.786: 353.793000000000006]]></description>
+		<styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="descrição">
+			</Data>
+			<Data name="ALMA">
+				<value>SPPC</value>
+			</Data>
+			<Data name="-9.5547113">
+				<value>-21.278961559999999</value>
+			</Data>
+			<Data name="-35.777101">
+				<value>-51.778242149999997</value>
+			</Data>
+			<Data name="84.786">
+				<value>353.793000000000006</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-51.778242,-21.278962,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>0</visibility>
+		<description><![CDATA[descrição: <br>ALMA: SPRG<br>-9.5547113: -24.534117490000000<br>-35.777101: -47.861345870000001<br>84.786: 33.247000000000000]]></description>
+		<styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="descrição">
+			</Data>
+			<Data name="ALMA">
+				<value>SPRG</value>
+			</Data>
+			<Data name="-9.5547113">
+				<value>-24.534117490000000</value>
+			</Data>
+			<Data name="-35.777101">
+				<value>-47.861345870000001</value>
+			</Data>
+			<Data name="84.786">
+				<value>33.247000000000000</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-47.861346,-24.534117,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>0</visibility>
+		<description><![CDATA[descrição: <br>ALMA: SPTU<br>-9.5547113: -21.929117810000001<br>-35.777101: -50.492369609999997<br>84.786: 508.783000000000015]]></description>
+		<styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="descrição">
+			</Data>
+			<Data name="ALMA">
+				<value>SPTU</value>
+			</Data>
+			<Data name="-9.5547113">
+				<value>-21.929117810000001</value>
+			</Data>
+			<Data name="-35.777101">
+				<value>-50.492369609999997</value>
+			</Data>
+			<Data name="84.786">
+				<value>508.783000000000015</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-50.49236999999999,-21.929118,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>0</visibility>
+		<description><![CDATA[descrição: <br>ALMA: SPTB<br>-9.5547113: -22.996675140000001<br>-35.777101: -45.572928140000002<br>84.786: 552.159999999999968]]></description>
+		<styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="descrição">
+			</Data>
+			<Data name="ALMA">
+				<value>SPTB</value>
+			</Data>
+			<Data name="-9.5547113">
+				<value>-22.996675140000001</value>
+			</Data>
+			<Data name="-35.777101">
+				<value>-45.572928140000002</value>
+			</Data>
+			<Data name="84.786">
+				<value>552.159999999999968</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-45.572928,-22.996675,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<visibility>0</visibility>
+		<description><![CDATA[descrição: <br>ALMA: MGG4<br>-9.5547113: -21.309646330000000<br>-35.777101: -46.722767859999998<br>84.786: 841.049999999999955]]></description>
+		<styleUrl>#icon-1899-0F9D58-labelson</styleUrl>
+		<ExtendedData>
+			<Data name="descrição">
+			</Data>
+			<Data name="ALMA">
+				<value>MGG4</value>
+			</Data>
+			<Data name="-9.5547113">
+				<value>-21.309646330000000</value>
+			</Data>
+			<Data name="-35.777101">
+				<value>-46.722767859999998</value>
+			</Data>
+			<Data name="84.786">
+				<value>841.049999999999955</value>
+			</Data>
+		</ExtendedData>
+		<Point>
+			<coordinates>-46.722768,-21.309646,0</coordinates>
+		</Point>
+	</Placemark>
+</Folder>
+</kml>

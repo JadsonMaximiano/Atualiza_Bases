@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="327">
+	<name>Mapa4.kml</name>
+	<open>1</open>
+	<StyleMap id="328">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#3282</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#3280</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="3280">
+		<IconStyle id="329">
+			<color>ff42b37c</color>
+			<scale>0.5</scale>
+			<heading>0</heading>
+			<Icon id="330">
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.5</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="3281">
+		<IconStyle id="329">
+			<color>ff42b37c</color>
+			<scale>0.5</scale>
+			<heading>0</heading>
+			<Icon id="330">
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="3282">
+		<IconStyle id="329">
+			<color>ff42b37c</color>
+			<scale>0.5</scale>
+			<heading>0</heading>
+			<Icon id="330">
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.5</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="334">
+		<IconStyle id="335">
+			<color>ff0051e6</color>
+			<scale>0.5</scale>
+			<heading>0</heading>
+			<Icon id="336">
+				<href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Placemark id="338">
+		<name>MGIN</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/MGIN_MONOGRAFIA.PDF<BR>CIDADE: INCONFIDENTES<BR>UF: MG]]></description>
+		<styleUrl>#328</styleUrl>
+		<Point id="337">
+			<coordinates>-46.32802399999999,-22.318562,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="342">
+		<name>SPA1</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPA1_MONOGRAFIA.PDF<BR>CIDADE: ASSIS<BR>UF: SP]]></description>
+		<styleUrl>#3281</styleUrl>
+		<Point id="341">
+			<coordinates>-50.415939,-22.65557,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="346">
+		<name>SPAB</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPAB_MONOGRAFIA.PDF<BR>CIDADE: ÁGUAS DE SANTA BÁRBARA<BR>UF: SP]]></description>
+		<styleUrl>#3281</styleUrl>
+		<Point id="345">
+			<coordinates>-49.239976,-22.878041,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="350">
+		<name>SPAQ</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPAQ_MONOGRAFIA.PDF<BR>CIDADE: ARARAQUARA<BR>UF: SP]]></description>
+		<styleUrl>#3281</styleUrl>
+		<Point id="349">
+			<coordinates>-48.20610200000001,-21.786674,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="354">
+		<name>SPAR</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPAR_MONOGRAFIA.PDF<BR>CIDADE: ARAÇATUBA<BR>UF: SP]]></description>
+		<styleUrl>#3281</styleUrl>
+		<Point id="353">
+			<coordinates>-50.439788,-21.184666,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="358">
+		<name>SPB3</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPB3_MONOGRAFIA.PDF<BR>CIDADE: BARRETOS<BR>UF: SP]]></description>
+		<styleUrl>#334</styleUrl>
+		<Point id="357">
+			<coordinates>-48.564137,-20.558874,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="362">
+		<name>SPBO</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPBO_MONOGRAFIA.PDF<BR>CIDADE: BOTUCATU<BR>UF: SP]]></description>
+		<styleUrl>#3281</styleUrl>
+		<Point id="361">
+			<coordinates>-48.43230100000001,-22.852467,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="366">
+		<name>SPBR</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPBR_MONOGRAFIA.PDF<BR>CIDADE: BAURU<BR>UF: SP]]></description>
+		<styleUrl>#3281</styleUrl>
+		<Point id="365">
+			<coordinates>-49.087532,-22.346107,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="370">
+		<name>SPBS</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPBS_MONOGRAFIA.PDF<BR>CIDADE: BASTOS<BR>UF: SP]]></description>
+		<styleUrl>#3281</styleUrl>
+		<Point id="369">
+			<coordinates>-50.73448499999999,-21.923913,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="374">
+		<name>SPC1</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPC1_MONOGRAFIA.PDF<BR>CIDADE: CAMPINAS<BR>UF: SP]]></description>
+		<styleUrl>#3281</styleUrl>
+		<Point id="373">
+			<coordinates>-47.062693,-22.816286,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="378">
+		<name>SPCT</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPCT_MONOGRAFIA.PDF<BR>CIDADE: CATANDUVA<BR>UF: SP]]></description>
+		<styleUrl>#3281</styleUrl>
+		<Point id="377">
+			<coordinates>-49.00074699999999,-21.14818,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="382">
+		<name>SPDR</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPDR_MONOGRAFIA.PDF<BR>CIDADE: DRACENA<BR>UF: SP]]></description>
+		<styleUrl>#3281</styleUrl>
+		<Point id="381">
+			<coordinates>-51.554257,-21.461604,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="386">
+		<name>SPGJ</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPGJ_MONOGRAFIA.PDF<BR>CIDADE: GUARUJÁ<BR>UF: SP]]></description>
+		<styleUrl>#3281</styleUrl>
+		<Point id="385">
+			<coordinates>-46.27317,-23.992416,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="390">
+		<name>SPI1</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPI1_MONOGRAFIA.PDF<BR>CIDADE: ITAÍ<BR>UF: SP]]></description>
+		<styleUrl>#3281</styleUrl>
+		<Point id="389">
+			<coordinates>-49.091786,-23.422834,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="394">
+		<name>SPIL</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPIL_MONOGRAFIA.PDF<BR>CIDADE: ITÁPOLIS<BR>UF: SP]]></description>
+		<styleUrl>#3281</styleUrl>
+		<Point id="393">
+			<coordinates>-48.81221,-21.598008,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="398">
+		<name>SPIP</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPIP_MONOGRAFIA.PDF<BR>CIDADE: ITAPETININGA<BR>UF: SP]]></description>
+		<styleUrl>#3281</styleUrl>
+		<Point id="397">
+			<coordinates>-48.021161,-23.574853,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="402">
+		<name>SPIS</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPIS_MONOGRAFIA.PDF<BR>CIDADE: ILHA SOLTEIRA<BR>UF: SP]]></description>
+		<styleUrl>#3281</styleUrl>
+		<Point id="401">
+			<coordinates>-51.343385,-20.427785,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="406">
+		<name>SPJB</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPJB_MONOGRAFIA.PDF<BR>CIDADE: JABOTICABAL<BR>UF: SP]]></description>
+		<styleUrl>#3281</styleUrl>
+		<Point id="405">
+			<coordinates>-48.28670300000001,-21.241073,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="410">
+		<name>SPJD</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPJD_MONOGRAFIA.PDF<BR>CIDADE: JUNDIAÍ<BR>UF: SP]]></description>
+		<styleUrl>#334</styleUrl>
+		<Point id="409">
+			<coordinates>-46.87392799999999,-23.236113,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="414">
+		<name>SPJS</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPJS_MONOGRAFIA.PDF<BR>CIDADE: JALES<BR>UF: SP]]></description>
+		<styleUrl>#3281</styleUrl>
+		<Point id="413">
+			<coordinates>-50.555226,-20.269345,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="418">
+		<name>SPJU</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPJU_MONOGRAFIA.PDF<BR>CIDADE: JAÚ<BR>UF: SP]]></description>
+		<styleUrl>#3281</styleUrl>
+		<Point id="417">
+			<coordinates>-48.548939,-22.315709,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="422">
+		<name>SPL1</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPL1_MONOGRAFIA.PDF<BR>CIDADE: LINS<BR>UF: SP]]></description>
+		<styleUrl>#3281</styleUrl>
+		<Point id="421">
+			<coordinates>-49.764931,-21.6734,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="426">
+		<name>SPMA</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPMA_MONOGRAFIA.PDF<BR>CIDADE: MARÍLIA<BR>UF: SP]]></description>
+		<styleUrl>#3281</styleUrl>
+		<Point id="425">
+			<coordinates>-49.94547099999999,-22.22616,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="430">
+		<name>SPMI</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPMI_MONOGRAFIA.PDF<BR>CIDADE: MIRANDÓPOLIS<BR>UF: SP]]></description>
+		<styleUrl>#3281</styleUrl>
+		<Point id="429">
+			<coordinates>-51.08637899999999,-21.100493,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="434">
+		<name>SPO1</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPO1_MONOGRAFIA.PDF<BR>CIDADE: ORLÂNDIA<BR>UF: SP]]></description>
+		<styleUrl>#3281</styleUrl>
+		<Point id="433">
+			<coordinates>-47.89345100000001,-20.706819,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="438">
+		<name>SPOR</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPOR_MONOGRAFIA.PDF<BR>CIDADE: OURINHOS<BR>UF: SP]]></description>
+		<styleUrl>#3281</styleUrl>
+		<Point id="437">
+			<coordinates>-49.843288,-22.99917,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="442">
+		<name>SPP5</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPP5_MONOGRAFIA.PDF<BR>CIDADE: PIRACICABA<BR>UF: SP]]></description>
+		<styleUrl>#3281</styleUrl>
+		<Point id="441">
+			<coordinates>-47.68069899999999,-22.713229,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="446">
+		<name>SPPI</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPPI_MONOGRAFIA.PDF<BR>CIDADE: PIRASSUNUNGA<BR>UF: SP]]></description>
+		<styleUrl>#3281</styleUrl>
+		<Point id="445">
+			<coordinates>-47.416904,-22.017701,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="450">
+		<name>SPPP</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPPP_MONOGRAFIA.PDF<BR>CIDADE: PRESIDENTE PRUDENTE<BR>UF: SP]]></description>
+		<styleUrl>#3281</styleUrl>
+		<Point id="449">
+			<coordinates>-51.408534,-22.119905,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="454">
+		<name>SPR1</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPR1_MONOGRAFIA.PDF<BR>CIDADE: RIBEIRÃO PRETO<BR>UF: SP]]></description>
+		<styleUrl>#3281</styleUrl>
+		<Point id="453">
+			<coordinates>-47.794119,-21.170279,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="458">
+		<name>SPRI</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPRI_MONOGRAFIA.PDF<BR>CIDADE: SÃO JOSÉ DO RIO PRETO<BR>UF: S´P]]></description>
+		<styleUrl>#3281</styleUrl>
+		<Point id="457">
+			<coordinates>-49.401614,-20.803549,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="462">
+		<name>SPSC</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPSC_MONOGRAFIA.PDF<BR>CIDADE: SOROCABA<BR>UF: SP]]></description>
+		<styleUrl>#3281</styleUrl>
+		<Point id="461">
+			<coordinates>-47.436437,-23.467688,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="466">
+		<name>SPSE</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPSE_MONOGRAFIA.PDF<BR>CIDADE: SÃO SEBASTIÃO<BR>UF: SP]]></description>
+		<styleUrl>#3281</styleUrl>
+		<Point id="465">
+			<coordinates>-45.621654,-23.784048,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="470">
+		<name>SPSJ</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPSJ_MONOGRAFIA.PDF<BR>CIDADE: SÃO JOSÉ DOS CAMPOS<BR>UF: SP]]></description>
+		<styleUrl>#3281</styleUrl>
+		<Point id="469">
+			<coordinates>-45.86173800000001,-23.207132,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="474">
+		<name>SPSM</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPSM_MONOGRAFIA.PDF<BR>CIDADE: SANTA MARIA DA SERRA<BR>UF: SP]]></description>
+		<styleUrl>#334</styleUrl>
+		<Point id="473">
+			<coordinates>-48.158605,-22.569512,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="478">
+		<name>SPSP</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPSP_MONOGRAFIA.PDF<BR>CIDADE: SÃO PAULO<BR>UF: SP]]></description>
+		<styleUrl>#3281</styleUrl>
+		<Point id="477">
+			<coordinates>-46.67712400000001,-23.5461,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="482">
+		<name>SPSR</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPSR_MONOGRAFIA.PDF<BR>CIDADE: SÃO CARLOS<BR>UF: SP]]></description>
+		<styleUrl>#334</styleUrl>
+		<Point id="481">
+			<coordinates>-47.89918,-22.004949,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="486">
+		<name>SPUB</name>
+		<description><![CDATA[DESCRIÇÃO: COORDENADAS E MODELO DA ANTENA:<BR>HTTP://GEOPLUSBRASIL.COM/MONOGRAFIAS/SPUB_MONOGRAFIA.PDF<BR>CIDADE: UBATUBA<BR>UF: SP]]></description>
+		<styleUrl>#3281</styleUrl>
+		<Point id="485">
+			<coordinates>-45.118901,-23.500177,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
