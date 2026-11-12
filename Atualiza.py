@@ -3,15 +3,20 @@ from mysql.connector import Error
 
 
 # Atualizar registros em um banco de dados MySQL
+con = None
+
+
 def conectar():
+    global con
+    con = None
     try:
-        global con
         con = mysql.connector.connect(
             host='atteras.mysql.dbaas.com.br',
             user='atteras',
             password='GeoGuanda202!',
             database='atteras',
-            use_pure=True
+            use_pure=True,
+            connection_timeout=15
         )
     except Error as erro:
         print(f'Erro de conexão: {erro}')
@@ -37,7 +42,7 @@ def consulta(id1, cidade):
 
         print(f'Falha ao consultar a tabela: {erro}')
     finally:
-        if con.is_connected():
+        if con is not None and con.is_connected():
             cursor.close()
             con.close()
 
@@ -53,7 +58,7 @@ def insere(nome, cidade):
     except Error as erro:
         print(f'Falha ao inserir dados no MySQL: {erro}')
     finally:
-        if con.is_connected():
+        if con is not None and con.is_connected():
             cursor.close()
             con.close()
             print('Conexão MySQL finalizada')
@@ -69,7 +74,7 @@ def atualiza(base, status):
     except Error as erro:
         print(f'Falha ao atualizar dados na tabela: {erro}')
     finally:
-        if con.is_connected():
+        if con is not None and con.is_connected():
             cursor.close()
             con.close()
 
@@ -85,7 +90,7 @@ def deleta(id):
     except Error as erro:
         print(f'Erro ao deletar: {erro}')
     finally:
-        if con.is_connected():
+        if con is not None and con.is_connected():
             cursor.close()
             con.close()
 
@@ -109,7 +114,7 @@ def atualiza_hora(base, cidade):
     except Error as erro:
         print(f'Falha ao atualizar dados na tabela: {erro}')
     finally:
-        if con.is_connected():
+        if con is not None and con.is_connected():
             cursor.close()
             con.close()
 
